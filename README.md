@@ -1,6 +1,5 @@
 <div style="text-align: left;">
     <h2>🍀carsumin's github🍀</h2>
-    Hello, I'm Sumin.👋 I majored in Computer Science and work as a web developer.
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
